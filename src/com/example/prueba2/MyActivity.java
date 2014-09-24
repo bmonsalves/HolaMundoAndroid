@@ -32,7 +32,7 @@ public class MyActivity extends Activity {
 
         restablecerBt.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                texto.setText("holaaa");
+                texto.setText("holaaaaaaaaaaaaaaaaaaaa");
 
             }
         });
